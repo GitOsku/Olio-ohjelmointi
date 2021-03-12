@@ -1,0 +1,50 @@
+Finland	Helsinki
+Belarus	Minsk
+Belize	Belo
+Cuba	Havana
+Egypt	Cairo
+England	London
+Estonia	Tallinn	
+Germany	Berlin
+Iran	Tehran
+Iraq	Baghdad
+Ireland	Dublin
+Israel	Jerusalem
+Italy	Rome
+Jamaica	Kingston
+Japan	Tokyo
+Jordan	Amman
+Latvia	Riga
+Nepal	Kathmandu	
+Niger	Niamey
+Nigeria	Abuja
+Norway	Oslo
+Peru	Lima
+Poland	Warsaw
+Qatar	Doha
+Russia	Moscow
+Serbia	Belgrade
+Turkey	Ankara
+Uganda	Kampala
+Ukraina	Kiev
+UK	London
+Yemen	Sana'a
+Zambia	Lusaka
+Naurua	No official capital
+Mexico	Mexico city
+Mali	Bamako
+Malta	Malletta
+Moldova	Chisinau
+Monaco	Monaco
+Morocco	Rabat
+Kenya	Nairobi
+Ghana	Accra
+Fiji	Suva
+France	Paris
+Gabon	Libreville
+Gambia	Banjul
+Greece	Athens
+Guyana	Georgetown
+Haiti	Port au Prince
+Iceland	Reykjavik
+India	New Delhi
